@@ -5,7 +5,7 @@ class Main {
     int first = 1;
     int second = 2;
 
-    // add two numbers
+    // add 2  numbers
     int sum = first + second;
     System.out.println(first + " + " + second + " = "  + sum);
   }
